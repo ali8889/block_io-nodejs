@@ -18,10 +18,10 @@
   },
   "main" : "./lib/block_io.js",
   "dependencies" : {
-    "request"       : "=2.88.0",
+    "request"       : "2.88.2",
     "bigi"          : "=1.4.2",
-    "bitcoinjs-lib" : "=1.5.6",
-    "pbkdf2"        : "=3.0.16"
+    "bitcoinjs-lib" : "1.5.8",
+    "pbkdf2"        : "3.1.2"
   },
   "devDependencies": {
     "vows": "0.8.x"
